@@ -1,0 +1,10 @@
+{
+  "independent_streaming_controls": "passed",
+  "xlsx_cached_values": "passed",
+  "rows": 300000,
+  "categories": 4588,
+  "million_products": 1476,
+  "selected_categories": 10,
+  "drr_over_100pct_retained": 37,
+  "native_excel_tested": false
+}
