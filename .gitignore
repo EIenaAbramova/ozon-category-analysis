@@ -1,0 +1,7 @@
+node_modules/
+qa/
+__pycache__/
+*.pyc
+.venv/
+outputs/workbook_data.json
+ozon-solution.zip
